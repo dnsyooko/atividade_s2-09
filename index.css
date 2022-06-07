@@ -1,0 +1,52 @@
+body{
+    font-family: Poppins;
+}
+.title-main{
+    height: 48px;
+    left: 409px;
+    top: 32px;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.text-center{
+    text-align: center;
+}
+
+.color-blue{
+    color:#3662FF
+}
+.background-blue{
+    height: 176px;
+    left: 16px;
+    top: 416px;
+    border-radius: 0px;
+    padding: 8px;
+    background-color: #3662FF;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#FFFFFF
+}
+.background-black{
+    height: 56px;
+    width: 1156px;
+    left: 16px;
+    top: 862px;
+    border-radius: 0px;
+    padding: 8px;
+    background-color: black;
+    color: #FFFFFF;
+    
+}
+
+
